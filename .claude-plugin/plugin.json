@@ -17,7 +17,7 @@
                 "hooks": [
                     {
                         "type": "command",
-                        "command": "./hooks/after-write.sh"
+                        "command": "bash /Users/jackcharles/Documents/Repos/git-helper-plugin/hooks/after-write.sh"
                     }
                 ]
             }
