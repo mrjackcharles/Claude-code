@@ -1,0 +1,16 @@
+{
+  "name": "smartr-challenge-plugin",
+  "version": "1.0.0",
+  "description": "Your Smartr coding challenge plugin - replace this with your plugin description",
+  "author": "Your Name",
+  "repository": "",
+  "main": "index.js",
+  "engines": {
+    "claude-code": "^1.0.0"
+  },
+  "mcpServers": {},
+  "commands": {},
+  "skills": {},
+  "subagents": {},
+  "hooks": {}
+}
