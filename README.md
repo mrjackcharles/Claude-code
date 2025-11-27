@@ -93,3 +93,4 @@ Example File Used:
 -   Add an MCP server for ticket context (e.g. Jira) to increase detail and accuracy of commit messages.
 -   Offer configurable severity policies.
 -   Add more checks to the Warning Hook.
+-   Refactor the prompt.mds more, to increase clarity and intensify guardrails
